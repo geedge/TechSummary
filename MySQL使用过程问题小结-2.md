@@ -58,6 +58,7 @@ ALTER IGNORE TABLE person_tbl ADD PRIMARY KEY (last_name, first_name);
 
 #### 求两个表交、并、差各种集合操作sql命令
 ![求两个表交、并、差各种集合操作sql命令](images/20190918102625947_4911.png)
+
 [求两个表（查询结果）的差集](https://blog.csdn.net/yongh701/article/details/51689976)
 ```sql
 select id FROM usertable LEFT JOIN

@@ -1,4 +1,4 @@
-## MySQL 使用过程问题小结
+## MySQL 使用过程问题小结-2
 ### 查询命令样例
 #### [insert into 插入若引起主键冲突则更新数据](https://blog.csdn.net/t894690230/article/details/77996355)
 ```sql
